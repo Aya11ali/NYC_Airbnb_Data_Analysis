@@ -67,7 +67,7 @@ This project presents an in-depth data analysis and visualization of Airbnb list
 ## 📷 Sample Visualizations
 
 Some of the visualizations included in the project:
-- Distribution of Airbnb prices
+- Distribution of Airbnb prices (/workspaces/NYC_Airbnb_Data_Analysis/images/Screenshot 2025-05-16 153830.png)
 - Listings by borough
 - Average price by room type
 - Relationship between number of reviews and price
